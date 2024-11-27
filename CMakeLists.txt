@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 project(hw-2 CXX)
 enable_testing()
 
-add_executable(main /home/ivan/Desktop/CppDevCourse-hw2/build/main.cpp)
+add_executable(main /home/ivan/Desktop/CppDevCourse-hw2/main.cpp/main.cpp)
 
 find_program(PYTHON3 python3 REQUIRED)
 configure_file(
