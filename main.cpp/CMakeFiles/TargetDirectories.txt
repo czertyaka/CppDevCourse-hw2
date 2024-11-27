@@ -1,4 +1,0 @@
-/home/ivan/Desktop/CppDevCourse-hw2/main.cpp/CMakeFiles/main.dir
-/home/ivan/Desktop/CppDevCourse-hw2/main.cpp/CMakeFiles/test.dir
-/home/ivan/Desktop/CppDevCourse-hw2/main.cpp/CMakeFiles/edit_cache.dir
-/home/ivan/Desktop/CppDevCourse-hw2/main.cpp/CMakeFiles/rebuild_cache.dir
