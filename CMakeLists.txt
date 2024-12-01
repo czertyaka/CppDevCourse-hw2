@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 project(hw-2 CXX)
 enable_testing()
 
-add_executable(main main.cpp)
+add_executable(main build/main.cpp)
 
 find_program(PYTHON3 python3 REQUIRED)
 configure_file(
@@ -15,3 +15,4 @@ add_test(
     COMMAND ${PYTHON3} -m test ./main
     WORKING_DIRECTORY ${CMAKE_BINARY_DIR}
 )
+
