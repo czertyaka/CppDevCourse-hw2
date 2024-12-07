@@ -1,0 +1,25 @@
+Start testing: Dec 07 13:23 +05
+----------------------------------------------------------
+1/1 Testing: main
+1/1 Test: main
+Command: "/opt/homebrew/bin/python3" "-m" "test" "./main"
+Directory: /Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build
+"main" start time: Dec 07 13:23 +05
+Output:
+----------------------------------------------------------
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build/test.py", line 7, in <module>
+    assert proc.stdout == b"Hello, World!\n"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Failed.
+"main" end time: Dec 07 13:23 +05
+"main" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 07 13:23 +05
