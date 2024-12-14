@@ -1,4 +1,0 @@
-/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build/CMakeFiles/main.dir
-/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build/CMakeFiles/test.dir
-/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build/CMakeFiles/edit_cache.dir
-/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw2/build/CMakeFiles/rebuild_cache.dir
